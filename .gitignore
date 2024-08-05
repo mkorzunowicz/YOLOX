@@ -3,7 +3,7 @@
 
 # user experiments directory
 YOLOX_outputs/
-datasets/
+datasets/*/
 # do not ignore datasets under yolox/data
 !*yolox/data/datasets/
 
